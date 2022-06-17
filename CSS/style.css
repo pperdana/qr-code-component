@@ -11,10 +11,9 @@ body {
     margin: 0;
     background-color: var(--light-gray);
     font-size: 15px;
-
 }
 
-section {
+main {
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -25,7 +24,7 @@ section {
 div.container {
     background-color: var(--white);
     padding: 13px;
-    width: 270px;
+    width: 290px;
     border-radius: 15px;
     text-align: center;
 }
@@ -41,14 +40,12 @@ img {
 
 h1 {
     color: var(--dark-blue);
-    /* font-size: 15px; */
     font-family: 'Outfit', sans-serif;
     font-weight: bold;
 }
 
 p {
     color: var(--grayish-blue);
-    /* font-size: 15px; */
     font-family: 'Outfit', sans-serif;
     font-weight: normal;
 }
